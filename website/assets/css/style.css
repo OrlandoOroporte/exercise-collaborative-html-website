@@ -22,3 +22,18 @@ body{
     
   }
 
+  .hijo2 {
+     display: flex;
+     justify-content: center;
+  }
+.card{
+  margin-left: 20px;
+}
+.card-title{
+  color: rgb(81, 81, 243);
+}
+
+button{
+  width: 25px;
+  height: 45px;
+}
